@@ -1,2 +1,3 @@
 # resolved-saucer
-first github setup for Rice Cybersecurity Bootcamp
+Github repository created during Rice University Cybersecurity Bootcamp
+--Uploads include completed projects as evidence of concepts grasped and comprehension of techniques
