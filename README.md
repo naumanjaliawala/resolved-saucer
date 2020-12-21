@@ -1,5 +1,7 @@
 ## resolved-saucer
 -- Github repository created during Rice University Cybersecurity Bootcamp
+________________________________________________________________________________________________________________
+![Network_Diagram](https://github.com/naumanjaliawala/resolved-saucer/blob/master/diagrams/Solved.png)
 
 # Automated ELK Stack Deployment
 
