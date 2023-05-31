@@ -1,5 +1,6 @@
 x = 1
 y = 10
+z = 0
 
 # Checks that both conditions are met using "and"
 if (x == 1 and y == 10):
