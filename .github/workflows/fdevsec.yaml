@@ -16,9 +16,14 @@ scanners:
 languages:
   - python
   - javascript
+  - shell
      
 dast:
-  url: <your.url.com>
+  url: https://github.com/naumanjaliawala/resolved-saucer
+  full_scan: true #true|false
+  
+sast:
+  url: https://github.com/naumanjaliawala/resolved-saucer
   full_scan: true #true|false
 
 resource:
